@@ -291,6 +291,12 @@
          "id":28,
          "name":"Seminarraum Pool",
          "opacity":1,
+         "properties":[
+                {
+                 "name":"jitsiRoom",
+                 "type":"string",
+                 "value":"Seminarraum"
+                }],
          "type":"tilelayer",
          "visible":true,
          "width":100,
@@ -325,7 +331,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Seminarraum Strandbar 2"
+                 "value":"Seminarraum"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -343,7 +349,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Seminarraum Strandbar 3"
+                 "value":"Seminarraum"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -361,7 +367,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Seminarraum Meer 1"
+                 "value":"Seminarraum"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -379,7 +385,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Seminarraum Wald"
+                 "value":"Seminarraum"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -397,7 +403,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Seminarraum Wald 2"
+                 "value":"Seminarraum"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -415,7 +421,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Seminarraum 2"
+                 "value":"Seminarraum"
                 }],
          "type":"tilelayer",
          "visible":true,
