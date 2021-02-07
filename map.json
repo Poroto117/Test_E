@@ -295,7 +295,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Seminarraum Pool"
+                 "value":"SeminarraumPool"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -313,7 +313,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Seminarraum Strandbar"
+                 "value":"SeminarraumStrandbar"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -331,7 +331,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Seminarraum Strandbar 2"
+                 "value":"SeminarraumStrandbar2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -349,7 +349,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Seminarraum Strandbar 3"
+                 "value":"SeminarraumStrandbar3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -367,7 +367,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Seminarraum Meer 1 "
+                 "value":"SeminarraumMeer1 "
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -385,7 +385,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Seminarraum Wald"
+                 "value":"SeminarraumWald"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -403,7 +403,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Seminarraum Wald"
+                 "value":"SeminarraumWald2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -421,7 +421,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Seminarraum 2"
+                 "value":"Seminarraum2"
                 }],
          "type":"tilelayer",
          "visible":true,
