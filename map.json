@@ -295,7 +295,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Seminarraum"
+                 "value":"Seminarraum Pool"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -313,7 +313,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Seminarraum"
+                 "value":"Seminarraum Strandbar"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -331,7 +331,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Seminarraum"
+                 "value":"Seminarraum Strandbar 2"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -349,7 +349,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Seminarraum"
+                 "value":"Seminarraum Strandbar 3"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -367,7 +367,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Seminarraum"
+                 "value":"Seminarraum Meer 1 "
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -385,7 +385,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Seminarraum"
+                 "value":"Seminarraum Wald"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -403,7 +403,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Seminarraum"
+                 "value":"Seminarraum Wald"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -421,7 +421,7 @@
                 {
                  "name":"jitsiRoom",
                  "type":"string",
-                 "value":"Seminarraum"
+                 "value":"Seminarraum 2"
                 }],
          "type":"tilelayer",
          "visible":true,
